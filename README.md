@@ -83,9 +83,9 @@ I'm always open to discussing new opportunities, collaborations, or just chattin
 
 | Platform            | Details                                                         |
 | ------------------- | --------------------------------------------------------------- |
-| 📧 Email             | [your_email@example.com](mailto:mexboxluis1@gmail.com)        |
-| 💼 LinkedIn          | [linkedin.com/in/luisalfredo-cuamatzi/](https://www.linkedin.com/in/luis-alfredo-cuamatzi-flores-mexboxl/) |
-| 🌐 Portfolio         | [yourportfolio.com](https://mexboxluis.github.io/)                 |
+| 📧 Email             | [mexboxluis1@gmail.com](mailto:mexboxluis1@gmail.com)        |
+| 💼 LinkedIn          | [linkedin.com/in/luisalfredo-cuamatzi/-flores-mexboxl](https://www.linkedin.com/in/luis-alfredo-cuamatzi-flores-mexboxl/) |
+| 🌐 Portfolio         | [mexboxluis.github.io](https://mexboxluis.github.io/)                 |
 
 ---
 
