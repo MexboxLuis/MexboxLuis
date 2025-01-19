@@ -89,4 +89,7 @@ I'm always open to discussing new opportunities, collaborations, or just chattin
 
 ---
 
-Thanks for visiting my profile! I'm excited to connect with you and explore how we can build something amazing together. Let's make a difference through technology!
+
+Thanks for visiting my profile! Check out my projects and see if they interest you!
+Don’t forget to contact me. 😊
+
