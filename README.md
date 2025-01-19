@@ -85,7 +85,7 @@ I'm always open to discussing new opportunities, collaborations, or just chattin
 
 
 <a href="https://github.com/MexboxLuis"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MexboxLuis&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MexboxLuis&show_icons=true&theme=algolia&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MexboxLuis&layout=compact&langs_count=8&theme=algolia"/> 
 </a>
 
