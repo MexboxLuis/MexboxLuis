@@ -1,6 +1,6 @@
 # Hi there, I'm Luis Alfredo 👋
 
-Welcome to my GitHub profile! I'm Luis Alfredo Cuamatzi Flores, an Artificial Intelligence Engineering student at the National Polytechnic Institute (IPN) in Mexico. I'm passionate about developing innovative solutions using AI, mobile app development, and web technologies. My goal is to create impactful software that enhances usability and accessibility for everyone.
+Welcome to my GitHub profile! I'm Luis Alfredo Cuamatzi Flores, an Artificial Intelligence Engineering student at the National Polytechnic Institute (IPN) in Mexico. I'm passionate about developing innovative solutions using AI, mobile app development, and web technologies. 
 
 ---
 
