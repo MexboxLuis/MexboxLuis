@@ -69,14 +69,6 @@ Here are some projects that showcase my skills and interests:
 
 ---
 
-## 🔍 My Goals
-
-*   **Impactful Development:** Create systems that improve accessibility and usability, making a positive impact on people's lives.
-*   **AI Innovation:** Contribute to the fields of Artificial Intelligence and mobile development through innovative projects.
-*   **Continuous Growth:** Continuously learn, adapt, and grow my skills as a developer to stay at the forefront of technology.
-
----
-
 ## 📢 Let's Connect
 
 I'm always open to discussing new opportunities, collaborations, or just chatting about tech. Feel free to reach out to me through the following channels:
