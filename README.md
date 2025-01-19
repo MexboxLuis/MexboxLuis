@@ -1,62 +1,92 @@
 # Hi there, I'm Luis Alfredo 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with expertise in mobile app development, artificial intelligence, web design, and more. Let's explore some highlights about me and my work:
+Welcome to my GitHub profile! I'm Luis Alfredo Cuamatzi Flores, an Artificial Intelligence Engineering student at the National Polytechnic Institute (IPN) in Mexico. I'm passionate about developing innovative solutions using AI, mobile app development, and web technologies. My goal is to create impactful software that enhances usability and accessibility for everyone.
 
 ---
 
 ## 📚 About Me
 
-| 🌀 Area                | 🎨 Details                                                                                     |
-|----------------------|------------------------------------------------------------------------------------------------|
-| 🔄 Currently Working On | A real-time sensor and camera simulator app for individuals with reduced mobility.                 |
-| 🎓 Learning           | Enhancing my skills in YOLO object detection and neural networks for EMG signal classification.    |
-| 🌿 Interests          | AI, mobile apps, web development, and innovative tech solutions for accessibility.                 |
-| ⚖️ Pronouns          | He/Him                                                                                     |
-| 😎 Fun Fact          | I love creating interactive web components and experimenting with design patterns.               |
+| Attribute                | Details                                                                                                                                                    |
+| ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🎓 Education             | Currently pursuing Artificial Intelligence Engineering at IPN (7th semester).                                                                                 |
+| 🌐 Experience           | Gained practical skills in machine learning, computer vision, and natural language processing.                                                                 |
+| 🌍 Leader Formation Program| Participated in the PFL at Queen Mary University of London, developing a business idea and prototype.                                                             |
+| 🚀 Interests            | Focused on AI, mobile development (Android with Jetpack Compose), web development, and creating accessible technology solutions.                               |
+| 🎯 Currently Working On | Enhancing my skills in areas like YOLO object detection and neural networks for EMG signal classification, applying them to real-world projects.           |
+| 🤝 Collaboration        | Eager to collaborate on projects that leverage AI and mobile technologies to solve real-world problems.                                                        |
+| ⚖️ Pronouns              | He/Him                                                                                                                                                         |
+| 😎 Fun Fact              | I enjoy experimenting with design patterns and creating interactive web components that enhance user experience.                                             |
 
 ---
 
 ## 🚀 My Tech Stack
 
+Here are some of the technologies I'm proficient in and enjoy working with:
+
+**AI & Machine Learning:**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![EasyOCR](https://img.shields.io/badge/EasyOCR-red?style=for-the-badge) 
+
+**Mobile Development:**
+
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+
+**Web Development:**
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+**Databases:**
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Other Tools:**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ---
 
 ## 🔧 Projects
 
-| Project                                     | Description                                                                                           | Stack                                  |
-|--------------------------------------------|-------------------------------------------------------------------------------------------------------|----------------------------------------|
-| **PIT-IPN Attendance Management System**   | A digital system to modernize student attendance tracking for IPN's tutoring program.               | Android, Firebase, Jetpack Compose    |
-| **Real-Time Sensor Simulator**             | Combines YOLO and EMG signals to assist individuals with reduced mobility.                          | Kotlin, Neural Networks, Vision AI    |
-| **Interactive Skills Section**             | A web interface showcasing skills with interactive progress circles and responsive design.           | HTML, CSS, JavaScript                 |
-| **Audio Signal Processing in MATLAB**      | FIR lowpass filters for .wav files with Signal Processing Toolbox.                                   | MATLAB, Signal Processing             |
+Here are some projects that showcase my skills and interests:
+
+| Project                                     | Description                                                                                                                                                | Stack                                                                         |
+| ------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| **PIT-IPN Attendance Management System**   | A mobile app built with Jetpack Compose to modernize student attendance tracking for IPN's tutoring program, featuring real-time data sync with Firebase.   | ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=android&logoColor=white)  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)     |
+| **SmartCrops** | A mobile app designed with Jetpack Compose to simulate the monitoring and control of an intelligent greenhouse for the SmartCrops project. | ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=android&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white) |
+| **LEXFY: OCR, Image Generation, and Data Management**   | An innovative application for precise text extraction, image generation, and secure data management using cutting-edge technologies.   | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![EasyOCR](https://img.shields.io/badge/EasyOCR-red?style=flat-square) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=android&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)     |
+| **SmartEMG Vision**             | Combines YOLO and EMG signals to assist individuals with reduced mobility. A prototype system based on Android that uses EMG signal analysis and real-time object detection with AI to support rehabilitation for motor disabilities.                         | ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)    |
 
 ---
 
 ## 🔍 My Goals
 
-- ✅ Build systems that improve accessibility and usability for diverse users.
-- ✅ Innovate in the fields of AI and mobile development.
-- ✅ Continuously learn and grow as a developer.
+*   **Impactful Development:** Create systems that improve accessibility and usability, making a positive impact on people's lives.
+*   **AI Innovation:** Contribute to the fields of Artificial Intelligence and mobile development through innovative projects.
+*   **Continuous Growth:** Continuously learn, adapt, and grow my skills as a developer to stay at the forefront of technology.
 
 ---
 
-## 📢 Contact Me
+## 📢 Let's Connect
 
-| Platform            | Details                                    |
-|---------------------|--------------------------------------------|
-| 📧 Email   | [luis@example.com](mailto:luis@example.com) |
-| 🔍 LinkedIn | [Luis Alfredo](https://linkedin.com/in/luisalfredo) |
-| 🌐 Website | [Portfolio](https://example.com)           |
+I'm always open to discussing new opportunities, collaborations, or just chatting about tech. Feel free to reach out to me through the following channels:
+
+| Platform            | Details                                                         |
+| ------------------- | --------------------------------------------------------------- |
+| 📧 Email             | [your_email@example.com](mailto:mexboxluis1@gmail.com)        |
+| 💼 LinkedIn          | [linkedin.com/in/luisalfredo-cuamatzi/](https://www.linkedin.com/in/luis-alfredo-cuamatzi-flores-mexboxl/) |
+| 🌐 Portfolio         | [yourportfolio.com](https://mexboxluis.github.io/)                 |
 
 ---
 
-Thanks for stopping by! Feel free to explore my repositories and connect with me. Let’s build something amazing together!
-
+Thanks for visiting my profile! I'm excited to connect with you and explore how we can build something amazing together. Let's make a difference through technology!
