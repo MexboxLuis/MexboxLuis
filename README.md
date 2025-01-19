@@ -12,10 +12,10 @@ Welcome to my GitHub profile! I'm Luis Alfredo Cuamatzi Flores, an Artificial In
 | 🌐 Experience           | Gained practical skills in machine learning, computer vision, and natural language processing.                                                                 |
 | 🌍 Leader Formation Program| Participated in the PFL at Queen Mary University of London, developing a business idea and prototype.                                                             |
 | 🚀 Interests            | Focused on AI, mobile development (Android with Jetpack Compose), web development, and creating accessible technology solutions.                               |
-| 🎯 Currently Working On | Enhancing my skills in areas like YOLO object detection and neural networks for EMG signal classification, applying them to real-world projects.           |
-| 🤝 Collaboration        | Eager to collaborate on projects that leverage AI and mobile technologies to solve real-world problems.                                                        |
+| 🎯 Currently Working On | I'm currently focused on expanding my skills in React Native, Flutter, and SwiftUI for mobile development. Also, I'm diving deeper into Next.js to build more robust and dynamic web applications.           |
+| 🤝 Collaboration        | I'm enthusiastic about collaborating on projects, especially those that involve cross-platform mobile development or innovative web solutions. I believe in the power of teamwork to create impactful and user-friendly applications. |
 | ⚖️ Pronouns              | He/Him                                                                                                                                                         |
-| 😎 Fun Fact              | I enjoy experimenting with design patterns and creating interactive web components that enhance user experience.                                             |
+| 😎 Fun Fact              | I'm passionate about exploring new design trends and integrating them into my projects. I love the challenge of creating visually appealing and intuitive user interfaces that enhance the overall user experience. |
 
 ---
 
