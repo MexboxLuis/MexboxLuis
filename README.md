@@ -1,7 +1,4 @@
-<div align="center">
 
-<table width="1200">
-<tr><td>
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=%238A2BE2&size=30&center=true&vCenter=true&width=800&height=50&lines=Hi+there,+I'm+Luis+Alfredo+👋;Welcome+to+my+GitHub+Profile!;AI+Engineer;Mobile+%26+Web+Developer">
 </h1>
@@ -124,7 +121,3 @@ I specialize in building intelligent systems by integrating machine learning, co
   <a href="https://mexboxluis.github.io/"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
 </p>
 
-</td></tr>
-</table>
-
-</div>
