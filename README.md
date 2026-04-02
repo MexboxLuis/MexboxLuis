@@ -1,97 +1,130 @@
-# Hi there, I'm Luis Alfredo 👋
+<div align="center">
 
-Welcome to my GitHub profile! I'm Luis Alfredo Cuamatzi Flores, a student of Artificial Intelligence Engineering, throughout my development, I have gained experience in areas such as machine learning, computer vision, and natural language processing. I enjoy implementing systems, algorithms, or artificial intelligence models in functional software.
-
----
-
-## 📚 About Me
-
-| Attribute                | Details                                                                                                                                                    |
-| ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🎓 Education             | Currently pursuing Artificial Intelligence Engineering at IPN (7th semester).                                                                                 |
-| 🌐 Experience           | Gained practical skills in machine learning, computer vision, and natural language processing.                                                                 |
-| 🌍 Leader Formation Program| Participated in the PFL at Queen Mary University of London, developing a business idea and prototype.                                                             |
-| 🚀 Interests            | Focused on AI, mobile development (Android with Jetpack Compose), web development, and creating accessible technology solutions.                               |
-| 🎯 Currently Working On | I'm currently focused on expanding my skills in React Native, Flutter, and SwiftUI for mobile development. Also, I'm diving deeper into Next.js to build more robust and dynamic web applications.           |
-| 🤝 Collaboration        | I'm enthusiastic about collaborating on projects, especially those that involve cross-platform mobile development or innovative web solutions. I believe in the power of teamwork to create impactful and user-friendly applications. |
-| ⚖️ Pronouns              | He/Him                                                                                                                                                         |
-| 😎 Fun Fact              | I'm passionate about exploring new design trends and integrating them into my projects. I love the challenge of creating visually appealing and intuitive user interfaces that enhance the overall user experience. |
-
----
-
-## 🚀 My Tech Stack
-
-Here are some of the technologies I'm proficient in and enjoy working with:
-
-**AI & Machine Learning:**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![EasyOCR](https://img.shields.io/badge/EasyOCR-red?style=for-the-badge) 
-
-**Mobile Development:**
-
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-
-**Web Development:**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
-**Databases:**
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Other Tools:**
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
----
-
-## 🔧 Projects
-
-Here are some projects that showcase my skills and interests:
-
-| Project                                     | Description                                                                                                                                                | Stack                                                                         | GitHub Link                                                                                       |
-| ------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| **PIT-IPN Attendance Management System**   | A mobile app built with Jetpack Compose to modernize student attendance tracking for IPN's tutoring program, featuring real-time data sync with Firebase.   | ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=android&logoColor=white)  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)     | [GitHub](https://github.com/MexboxLuis/PIT-IPN-App)                                          |
-| **SmartCrops** | A mobile app designed with Jetpack Compose to simulate the monitoring and control of an intelligent greenhouse for the SmartCrops project. | ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=android&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white) | [GitHub](https://github.com/MexboxLuis/SmartCrops)                                                 |
-| **LEXFY: OCR, Image Generation, and Data Management**   | An innovative application for precise text extraction, image generation, and secure data management using cutting-edge technologies.   | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![EasyOCR](https://img.shields.io/badge/EasyOCR-red?style=flat-square) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=android&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)     | [GitHub](https://github.com/MexboxLuis/LEXFY)                                                      |
-| **SmartEMG Vision**             | Combines YOLO and EMG signals to assist individuals with reduced mobility. A prototype system based on Android that uses EMG signal analysis and real-time object detection with AI to support rehabilitation for motor disabilities.                         | ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)    | [GitHub](https://github.com/MexboxLuis/SMARTEMG-Vision)                                            |
-
-
----
-
-## 📢 Let's Connect
-
-I'm always open to discussing new opportunities, collaborations, or just chatting about tech. Feel free to reach out to me through the following channels:
-
-| Platform            | Details                                                         |
-| ------------------- | --------------------------------------------------------------- |
-| 📧 Email             | [mexboxluis1@gmail.com](mailto:mexboxluis1@gmail.com)        |
-| 💼 LinkedIn          | [linkedin.com/in/luisalfredo-cuamatzi/-flores-mexboxl](https://www.linkedin.com/in/luis-alfredo-cuamatzi-flores-mexboxl/) |
-| 🌐 Portfolio         | [mexboxluis.github.io](https://mexboxluis.github.io/)                 |
-
----
-
-### ⚙️ &nbsp;GitHub Analytics
-
-
-<a href="https://github.com/MexboxLuis"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MexboxLuis&show_icons=true&theme=algolia&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MexboxLuis&layout=compact&langs_count=8&theme=algolia"/> 
-</a>
+<table width="1200">
+<tr><td>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=%238A2BE2&size=30&center=true&vCenter=true&width=800&height=50&lines=Hi+there,+I'm+Luis+Alfredo+👋;Welcome+to+my+GitHub+Profile!;AI+Engineer;Mobile+%26+Web+Developer">
+</h1>
 
 
 
-Thanks for visiting my profile! Check out my projects and see if they interest you!
-Don’t forget to contact me. 😊
+<br>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:8A2BE2&height=120&section=header&text=About%20Me&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
+<table>
+<tr>
+<td width="65%">
+
+<p align="justify">
+I'm <strong>Luis Alfredo Cuamatzi Flores</strong> (<em>MexboxLuis</em>), an <strong>Artificial Intelligence Engineer</strong>.
+
+I specialize in building intelligent systems by integrating machine learning, computer vision, and software engineering into real-world applications.
+</p>
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="assets/moon.gif" width="550"/>
+
+</td>
+</tr>
+</table>
+
+| 🚀 Attribute | 💡 Details |
+| :--- | :--- |
+| 🎓 **Education** | Artificial Intelligence Engineering — Instituto Politécnico Nacional |
+| 🌐 **Experience** | Machine Learning, Computer Vision, NLP, Mobile & Web Development |
+| 🌍 **Leadership** | Leader Formation Program — Queen Mary University of London |
+| 🎯 **Focus** | AI Systems, Mobile Apps, Real-World Problem Solving |
+| 🤝 **Collaboration** | Open to building impactful AI and software solutions |
+
+<br>
+<table align="center">
+<tr>
+<td width="50%" align="center">
+
+<img src="assets/oshi.gif" width="400"/>
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MexboxLuis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<br>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MexboxLuis&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:8A2BE2&height=120&section=header&text=Tech%20Stack&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
+### 🧠 AI & Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/Python-4B0082?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-8A2BE2?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-6A0DAD?style=for-the-badge&logo=PyTorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-5D3FD3?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+
+### 📱 Mobile & Game Development
+<p>
+  <img src="https://img.shields.io/badge/Android-6A0DAD?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-8A2BE2?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4B0082?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-5D3FD3?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-4B0082?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-6A0DAD?style=for-the-badge&logo=c-sharp&logoColor=white" />
+</p>
+
+### 🌐 Web & Backend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-8A2BE2?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-4B0082?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-6A0DAD?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-5D3FD3?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-4B0082?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-6A0DAD?style=for-the-badge&logo=flask&logoColor=white" />
+</p>
+
+### 🗄️ Databases & Cloud
+<p>
+  <img src="https://img.shields.io/badge/Firebase-8A2BE2?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4B0082?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-6A0DAD?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-5D3FD3?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:8A2BE2&height=120&section=header&text=GitHub%20Stats&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MexboxLuis&theme=tokyonight&hide_border=true&background=0D1117"/>
+</p>
+
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:8A2BE2&height=120&section=header&text=Let's%20Connect&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
+<p align="center">
+  <a href="mailto:mexboxluis1@gmail.com"><img src="https://img.shields.io/badge/Email-4B0082?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/luis-alfredo-cuamatzi-flores-mexboxl/"><img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://mexboxluis.github.io/"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
+</p>
+
+</td></tr>
+</table>
+
+</div>
